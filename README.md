@@ -4,7 +4,7 @@
 > 🇺🇸 **Description**: A ComfyUI node workflow using **WAN 2.2** to generate a character in 360° rotation (front/back/side/quarter) and prepare a dataset for **LoRA training**.  
 > *현재 문서는 Coming Soon 버전으로, 핵심 사용법과 권장 설정만 우선 공개됩니다.*
 
-![노드 스크린샷](asset/screenshot.png)
+![노드 스크린샷](assets/screenshot.png)
 ---
 
 ## ✨ 개요 / Overview
